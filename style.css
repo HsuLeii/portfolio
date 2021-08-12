@@ -112,7 +112,8 @@ display: flex;
 width: 52.5px;
 }
 .about_content{
-width:calc(100% - 52.5px)
+width:calc(100% - 52.5px);
+text-align: justify;
 }
 .phone,.mail{
   display:flex;
